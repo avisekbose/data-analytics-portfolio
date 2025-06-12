@@ -45,4 +45,4 @@ This space showcases my work in **data analytics**, combining tools like **SQL, 
 I'm always open to collaboration or freelance data projects!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/avisekbose)
-- ✉️ [Email] (avisek.bose@hotmail.com)
+- ✉️ [Email](avisek.bose@hotmail.com)
