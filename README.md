@@ -15,7 +15,7 @@ This space showcases my work in **data analytics**, combining tools like **SQL, 
 - 💼 Experienced in accounting, reconciliations, and financial analysis
 - 🧰 Tools: SQL | Excel | Power BI | Python | Tally ERP
 
-[📄 View My Resume](https://github.com/avisekbose/Resume.git); [🔗 LinkedIn](https://www.linkedin.com/in/avisekbose); 📧 avisek.bose@hotmail.com
+[📄 View My Resume](https://github.com/avisekbose/Resume.git); [🔗 LinkedIn](https://www.linkedin.com/in/avisek-bose-28a63057); 📧 avisek.bose@hotmail.com
 
 📁 **Projects**
 
@@ -44,5 +44,5 @@ This space showcases my work in **data analytics**, combining tools like **SQL, 
 
 I'm always open to collaboration or freelance data projects!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/avisekbose)
+- 💼 [LinkedIn](https://www.linkedin.com/in/avisek-bose-28a63057)
 - ✉️ [Email](avisek.bose@hotmail.com)
